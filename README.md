@@ -276,7 +276,7 @@ Contributions are welcome! Please follow these steps to contribute:
 
    ```bash
    git clone git@github.com:Zapdroid-io/crawler.git
-   cd nodejs-crawler
+   cd crawler
    ```
 
 3. **Create a New Branch**
